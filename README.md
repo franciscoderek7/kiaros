@@ -1,2 +1,0 @@
-# kiaros
-Kiaros — AI Strategy
